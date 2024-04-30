@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Josep\\OneDrive\\Desktop\\quick_e\\quick_e\\quick_e.csproj": {}
+    "C:\\Users\\Josep\\OneDrive\\Desktop\\quick_e\\quick_e\\quick_e.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Josep\\OneDrive\\Desktop\\quick_e\\quick_e\\quick_e.csproj": {
+    "C:\\Users\\Josep\\OneDrive\\Desktop\\quick_e\\quick_e\\quick_e.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Josep\\OneDrive\\Desktop\\quick_e\\quick_e\\quick_e.csproj",
+        "projectUniqueName": "C:\\Users\\Josep\\OneDrive\\Desktop\\quick_e\\quick_e\\quick_e.csproj",
         "projectName": "quick_e",
-        "projectPath": "c:\\Users\\Josep\\OneDrive\\Desktop\\quick_e\\quick_e\\quick_e.csproj",
+        "projectPath": "C:\\Users\\Josep\\OneDrive\\Desktop\\quick_e\\quick_e\\quick_e.csproj",
         "packagesPath": "C:\\Users\\Josep\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Josep\\OneDrive\\Desktop\\quick_e\\quick_e\\obj\\",
+        "outputPath": "C:\\Users\\Josep\\OneDrive\\Desktop\\quick_e\\quick_e\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Josep\\AppData\\Roaming\\NuGet\\NuGet.Config"

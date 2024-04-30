@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BFtYZg8NcyoW/YO6T6bxC5VqSpaDEUBGHZkQtV3PsNnVucBXS6aWoJVsaa7NHnGdB7zutNyhKxVf2Q46fivjeA==",
+  "dgSpecHash": "+QuixRPKtyTdVmH7VdMHfoPYjhk4s1jtbw34vl+V7Vvh/TCn45I8t5PgzsFEEz94gjQbUjCf88meqVot+Jv/Mg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Josep\\OneDrive\\Desktop\\quick_e\\quick_e\\quick_e.csproj",
+  "projectFilePath": "C:\\Users\\Josep\\OneDrive\\Desktop\\quick_e\\quick_e\\quick_e.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Josep\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Josep\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
