@@ -4,7 +4,7 @@ namespace quick_e.Dtos;
 
 public record class CreateGameDto(
     [Required][StringLength(60)] string Name,
-    [Required][StringLength(20)] string Genre,
+    int GenreId,
     [Required][Range(1, 100)] decimal Price,
     DateOnly ReleaseDate
 );

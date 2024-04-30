@@ -6,10 +6,10 @@ POST http://localhost:5206/games
 Content-Type: application/json
 
 {
-    "name": "Resident Evil",
-    "genre": "horror",
+    "name": "Fighting test",
+    "genreId": 1,
     "price": 20,
-    "releaseDate": "2011-11-12"
+    "releaseDate": "2014-11-12"
 }
 ###
 PUT http://localhost:5206/games/1
@@ -23,5 +23,5 @@ Content-Type: application/json
 }
 
 ###
-DELETE http://localhost:5206/games/1
+DELETE http://localhost:5206/games/2
 Content-Type: application/json
